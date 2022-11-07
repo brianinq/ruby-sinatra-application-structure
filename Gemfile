@@ -13,7 +13,7 @@ gem "activerecord", "~> 6.1"
 gem "sinatra-activerecord"
 
 gem "rack-contrib", "~> 2.3"
-
+gem "rack-cors"
 # Run common tasks from the command line
 # https://github.com/ruby/rake
 gem "rake"
